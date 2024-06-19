@@ -4,11 +4,11 @@
 }
 
 body {
-  background-color: #FFFFFF;
+  background-color: black;
 }
 
-.mrheaderlogo {
-  width: 1%;
+.mrheaderlogo img {
+  width: 10rem;
 }
 
 /*# sourceMappingURL=style.css.map */
