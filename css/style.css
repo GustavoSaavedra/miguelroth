@@ -4,18 +4,19 @@
 }
 
 body {
-  background-color: black;
+  background-color: white;
 }
 
-.mrheaderlogo img {
-  width: 10rem;
+.navbar {
+  background-color: whitesmoke;
 }
-
-#navbarNavDropdown {
+.navbar #navbarNavDropdown {
   justify-content: end;
 }
-
-.nav-item {
+.navbar .mrheaderlogo img {
+  width: 10rem;
+}
+.navbar .nav-item {
   margin-left: 1rem;
   margin-right: 1rem;
 }

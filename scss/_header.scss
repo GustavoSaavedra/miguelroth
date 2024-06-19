@@ -1,12 +1,13 @@
-.mrheaderlogo img{
-    width: 10rem;
-}
-
-#navbarNavDropdown {
-    justify-content: end;
-}
-
-.nav-item {
-    margin-left: 1rem;
-    margin-right: 1rem;
+.navbar {
+    #navbarNavDropdown {
+        justify-content: end; //orden de opciones de menu
+    }
+        background-color: whitesmoke; //fondo de menu
+    .mrheaderlogo img {
+        width: 10rem; //tamaño logo
+    }
+    .nav-item { 
+        margin-left: 1rem; //separacion de opciones
+        margin-right: 1rem; //separacion de opciones
+    }
 }
